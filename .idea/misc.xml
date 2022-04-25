@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/content_main.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/darkmode_login.xml" value="0.1" />
+        <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/horizontal_login.xml" value="0.1" />
+        <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/language_login.xml" value="0.19375" />
         <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/login_constraintlayout.xml" value="0.12993920972644377" />
         <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/login_linearlayout.xml" value="0.264" />
         <entry key="..\:/Users/jsw96/AndroidStudioProjects/Login/app/src/main/res/layout/login_relativelayout.xml" value="0.24547101449275363" />
